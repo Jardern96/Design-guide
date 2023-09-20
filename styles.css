@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Poppins:ital,wght@0,400;0,700;1,400&display=swap');
+
+h1, .h1 {
+    font-family: "Karla";
+    font-size: 34px;
+    font-weight: 700;
+}
+
+h2, .h2 {
+    font-family: "Karla";
+    font-size: 22px;
+    font-weight: 600;
+}
+
+/* p {
+    font-family: "Poppins";
+} */
+
+div {
+    margin-bottom: 1%;
+}
+
+.coloricon {
+    display: inline-block;
+    text-align: center;
+    margin: 1% 0.5%;
+    padding: 0 4%;
+    font-family: "Poppins";
+    font-size: 16px;
+}
+
+.mintj {
+    background-color: #3EB884;
+}
+
+.tealj {
+    background-color: #3EAFB8;
+}
+
+.bluej {
+    background-color: #3E72B8;
+}
+
+.purplej {
+    background-color: #843EB8;
+}
+
+div {
+    border: black solid 2px;
+}
+
+.fontname {
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.font {
+    display: inline-block;
+    margin: 1% 0.5%;
+    /* padding: 0 4%; */
+}
+.poppins {
+    font-family: "Poppins";
+}
+
+.playfairdisplay {
+    font-family: "Playfair Display";
+}
+
+.karla {
+    font-family: "Karla";
+}
+
+.fontitalic {
+    font-style: italic;
+}
+
+.fontbold {
+    font-weight: 700;
+}
+
+.textstyle {
+    display: inline-block;
+    margin: 1% 0.5%;
+    font-family: "Poppins";
+    font-size: 16px;
+}
+
+.example {
+    margin-bottom: 0;
+    margin: 0;
+}
